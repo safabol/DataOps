@@ -1,0 +1,8 @@
+<INICIO>
+	Realizar segmentación clientes in ('Lima','Ica','Arequipa','Trujillo')
+	Ejecutar validación para entrega de bonos
+		Regla_1
+		Regla_2
+		Regla_3
+	Asignar Bonos a Cliente
+<FIN>
