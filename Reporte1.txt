@@ -3,6 +3,8 @@
 	Ejecutar validación para entrega de bonos
 		Regla_1
 		Regla_2
-		Regla_3
+		//Regla_3
+		Regla_4
+		Regla_5
 	Asignar Bonos a Cliente
 <FIN>
